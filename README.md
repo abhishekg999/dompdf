@@ -11,3 +11,8 @@ The hash should be correct, you can verify the hash yourself:
 user@console:~$ echo -n [PHP_PAYLOAD_URL_AT_IT_IS_IN_THE_CSS_FILE] | md5sum
 de7ec71473780093df11e62fab83211f  -
 ```
+
+
+---
+
+Based off https://github.com/positive-security/dompdf-rce

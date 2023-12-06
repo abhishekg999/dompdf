@@ -8,7 +8,7 @@
 
 The hash should be correct, you can verify the hash yourself:
 ```console
-user@console:~$ echo -n [PHP_PAYLOAD_URL_AT_IT_IS_IN_THE_CSS_FILE] | md5sum
+user@console:~$ echo -n https://abhishekg999.github.io/dompdf/exploit_font.php | md5sum
 de7ec71473780093df11e62fab83211f  -
 ```
 
